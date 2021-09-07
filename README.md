@@ -1,2 +1,2 @@
 # HackerRankProblems
-Practicing the Problem Solving Skills Using the Problems offered by  Platform.
+Practicing the Problem Solving Skills Using the Problems offered by `HackerRank` Platform.
