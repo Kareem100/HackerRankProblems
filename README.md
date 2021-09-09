@@ -5,9 +5,14 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 `1 Month Preparation Kit`
 1. [Plus Minus](1%20Month%20Preparation%20Kit/Day%201/Plus%20Minus.cpp)
 2. [Mini-Max Sum](1%20Month%20Preparation%20Kit/Day%201/Mini-Max%20Sum.cpp)
+`30 Days of Code`
+3. [Hello, World.](30%20Days%20of%20Code/Day%201/Hello%20World.java)
 
 ### Day 2
 `1 Month Preparation Kit`
 
-3. [Time Conversion](1%20Month%20Preparation%20Kit/Day%202/Time%20Conversion.cpp)
-4. [Sparse Arrays](1%20Month%20Preparation%20Kit/Day%202/Sparse%20Arrays.cpp)
+4. [Time Conversion](1%20Month%20Preparation%20Kit/Day%202/Time%20Conversion.cpp)
+5. [Sparse Arrays](1%20Month%20Preparation%20Kit/Day%202/Sparse%20Arrays.cpp)
+`30 Days of Code`
+6. [](30%20Days%20of%20Code/Day%202/%20.java)
+
