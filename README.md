@@ -8,4 +8,6 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 
 ### Day 2
 `1 Month Preparation Kit`
-3. [Time Conversion](1%20Month%20Preparation%20Kit/Day%201/Time%20Conversion.cpp)
+
+3. [Time Conversion](1%20Month%20Preparation%20Kit/Day%202/Time%20Conversion.cpp)
+4. [Sparse Arrays](1%20Month%20Preparation%20Kit/Day%202/Sparse%20Arrays.cpp)
