@@ -16,4 +16,5 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 2
 
 7. [Lonely Integer](1%20Month%20Preparation%20Kit/Day%203/Lonely%20Integer.cpp) `1 Month Preparation Kit`
+8. [Flipping Bits](1%20Month%20Preparation%20Kit/Day%203/Flipping%20Bits.cpp) `1 Month Preparation Kit`
 
