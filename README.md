@@ -13,8 +13,9 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 5. [Sparse Arrays](1%20Month%20Preparation%20Kit/Day%202/Sparse%20Arrays.cpp) `1 Month Preparation Kit`
 6. [Data Types](30%20Days%20of%20Code/Day%202/Data%20Types.java) `30 Days of Code`
 
-### Day 2
+### Day 3
 
 7. [Lonely Integer](1%20Month%20Preparation%20Kit/Day%203/Lonely%20Integer.cpp) `1 Month Preparation Kit`
 8. [Flipping Bits](1%20Month%20Preparation%20Kit/Day%203/Flipping%20Bits.cpp) `1 Month Preparation Kit`
+9. [Operators](30%20Days%20of%20Code/Day%203/Operators.java) `30 Days of Code`
 
