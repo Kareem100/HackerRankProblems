@@ -19,3 +19,8 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 8. [Flipping Bits](1%20Month%20Preparation%20Kit/Day%203/Flipping%20Bits.cpp) `1 Month Preparation Kit`
 9. [Operators](30%20Days%20of%20Code/Day%203/Operators.java) `30 Days of Code`
 
+
+### Day 4
+
+10. [Diagonal Difference](1%20Month%20Preparation%20Kit/Day%204/Diagonal%20Difference.cpp)
+
