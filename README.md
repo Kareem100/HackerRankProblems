@@ -23,4 +23,5 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 4
 
 10. [Diagonal Difference](1%20Month%20Preparation%20Kit/Day%204/Diagonal%20Difference.cpp)
+11. [Counting Sort 1](1%20Month%20Preparation%20Kit/Day%204/Counting%20Sort%201.cpp)
 
