@@ -26,4 +26,10 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 11. [Counting Sort 1](1%20Month%20Preparation%20Kit/Day%204/Counting%20Sort%201.cpp) `1 Month Preparation Kit`
 12. [Intro to Conditional Statements](30%20Days%20of%20Code/Day%204/Intro%20to%20Conditional%20Statements.java) `30 Days of Code`
 
+### Day 5
+
+13. [Pangrams](1%20Month%20Preparation%20Kit/Day%205/Pangrams.cpp) `1 Month Preparation Kit`
+14. [Permuting Two Arrays](1%20Month%20Preparation%20Kit/Day%205/Permuting%20Two%20Arrays.cpp) `1 Month Preparation Kit`
+
+
 
