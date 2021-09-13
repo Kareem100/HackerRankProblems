@@ -36,6 +36,6 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 
 16. [Subarray Division 1](1%20Month%20Preparation%20Kit/Day%206/Subarray%20Division%201.cpp) `1 Month Preparation Kit`
 17. [XOR Strings 2](1%20Month%20Preparation%20Kit/Day%206/XOR%20Strings%202.cpp) `1 Month Preparation Kit`
-
+18. [Loops](30%20Days%20of%20Code/Day%206/Loops.java) `30 Days of Code`
 
 
