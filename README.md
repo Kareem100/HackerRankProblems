@@ -32,4 +32,10 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 14. [Permuting Two Arrays](1%20Month%20Preparation%20Kit/Day%205/Permuting%20Two%20Arrays.cpp) `1 Month Preparation Kit`
 15. [Class vs. Instance](30%20Days%20of%20Code/Day%205/Class%20vs.%20Instance.java) `30 Days of Code`
 
+### Day 6
+
+16. [](1%20Month%20Preparation%20Kit/Day%206/.cpp) `1 Month Preparation Kit`
+17. [](1%20Month%20Preparation%20Kit/Day%206/.cpp) `1 Month Preparation Kit`
+18. [](30%20Days%20of%20Code/Day%206/.java) `30 Days of Code`
+
 
