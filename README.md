@@ -38,4 +38,6 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 17. [XOR Strings 2](1%20Month%20Preparation%20Kit/Week%201/Day%206/XOR%20Strings%202.cpp) `1 Month Preparation Kit`
 18. [Loops](30%20Days%20of%20Code/First%2010%20Days/Day%206/Loops.java) `30 Days of Code`
 
+### Day 7
 
+19. [Sales by Match](1%20Month%20Preparation%20Kit/Week%202/Day%207/Sales%20by%20Match.cpp) `1 Month Preparation Kit`
