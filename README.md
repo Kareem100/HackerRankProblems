@@ -42,3 +42,4 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 
 19. [Sales by Match](1%20Month%20Preparation%20Kit/Week%202/Day%207/Sales%20by%20Match.cpp) `1 Month Preparation Kit`
 20. [Zig Zag Sequence](1%20Month%20Preparation%20Kit/Week%202/Day%207/Zig%20Zag%20Sequence.cpp) `1 Month Preparation Kit`
+21. [Let's Review](30%20Days%20of%20Code/First%2010%20Days/Day%207/Let's%20Review.java) `30 Days of Code`
