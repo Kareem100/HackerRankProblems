@@ -47,3 +47,4 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 8
 
 22. [Drawing Book](1%20Month%20Preparation%20Kit/Week%202/Day%208/Drawing%20Book.cpp) `1 Month Preparation Kit`
+23. [Tower Breakers](1%20Month%20Preparation%20Kit/Week%202/Day%208/Tower%20Breakers.cpp) `1 Month Preparation Kit`
