@@ -55,3 +55,7 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 25. [Max Min](1%20Month%20Preparation%20Kit/Week%202/Day%209/Max%20Min.cpp) `1 Month Preparation Kit`
 26. [Caesar Cipher](1%20Month%20Preparation%20Kit/Week%202/Day%209/Caesar%20Cipher.cpp) `1 Month Preparation Kit`
 27. [Dictionaries and Maps](30%20Days%20of%20Code/First%2010%20Days/Day%209/Dictionaries%20and%20Maps.java) `30 Days of Code`
+
+### Day 10
+
+28. [Prime Dates](1%20Month%20Preparation%20Kit/Week%202/Day%2010/Prime%20Dates.cpp) `1 Month Preparation Kit`
