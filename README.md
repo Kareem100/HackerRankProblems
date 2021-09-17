@@ -60,3 +60,4 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 
 28. [Prime Dates](1%20Month%20Preparation%20Kit/Week%202/Day%2010/Prime%20Dates.cpp) `1 Month Preparation Kit`
 29. [Dynamic Array](1%20Month%20Preparation%20Kit/Week%202/Day%2010/Dynamic%20Array.cpp) `1 Month Preparation Kit`
+30. [Grid Challenge](1%20Month%20Preparation%20Kit/Week%202/Day%2010/Grid%20Challenge.cpp) `1 Month Preparation Kit`
