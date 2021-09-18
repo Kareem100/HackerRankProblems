@@ -66,4 +66,4 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 11
 
 32. [Recursive Digit Sum](1%20Month%20Preparation%20Kit/Week%202/Day%2011/Recursive%20Digit%20Sum.cpp) `1 Month Preparation Kit`
-
+33. [Sherlock and Array](1%20Month%20Preparation%20Kit/Week%202/Day%2011/Sherlock%20and%20Array.cpp) `1 Month Preparation Kit`
