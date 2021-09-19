@@ -72,3 +72,4 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 12
 
 35. [Counter game](1%20Month%20Preparation%20Kit/Week%202/Day%2012/Counter%20game.cpp) `1 Month Preparation Kit`
+36. [Sum vs XOR](1%20Month%20Preparation%20Kit/Week%202/Day%2012/Sum%20vs%20XOR.cpp) `1 Month Preparation Kit`
