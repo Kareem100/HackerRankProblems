@@ -68,3 +68,7 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 32. [Recursive Digit Sum](1%20Month%20Preparation%20Kit/Week%202/Day%2011/Recursive%20Digit%20Sum.cpp) `1 Month Preparation Kit`
 33. [Sherlock and Array](1%20Month%20Preparation%20Kit/Week%202/Day%2011/Sherlock%20and%20Array.cpp) `1 Month Preparation Kit`
 34. [Binary Numbers](30%20Days%20of%20Code/Second%2010%20Days/Day%2011/Binary%20Numbers.java) `30 Days of Code`
+
+### Day 12
+
+35. [Counter game](1%20Month%20Preparation%20Kit/Week%202/Day%2012/Counter%20game.cpp) `1 Month Preparation Kit`
