@@ -74,3 +74,7 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 35. [Counter game](1%20Month%20Preparation%20Kit/Week%202/Day%2012/Counter%20game.cpp) `1 Month Preparation Kit`
 36. [Sum vs XOR](1%20Month%20Preparation%20Kit/Week%202/Day%2012/Sum%20vs%20XOR.cpp) `1 Month Preparation Kit`
 37. [2D Arrays](30%20Days%20of%20Code/Second%2010%20Days/Day%2012/2D%20Arrays.java) `30 Days of Code`
+
+### Day 13
+
+38. [The Bomberman Game](1%20Month%20Preparation%20Kit/Week%203/Day%2013/The%20Bomberman%20Game.cpp) `1 Month Preparation Kit`
