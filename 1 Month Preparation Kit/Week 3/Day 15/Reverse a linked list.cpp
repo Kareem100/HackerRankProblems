@@ -8,6 +8,15 @@ Language: C++
 Category: One Month Preparation
 */
 
+/*
+ * For reference:
+ *
+ * SinglyLinkedListNode {
+ *     int data;
+ *     SinglyLinkedListNode* next;
+ * };
+ *
+ */
 SinglyLinkedListNode* reverse(SinglyLinkedListNode* llist) {
     SinglyLinkedListNode* previous = NULL;
     SinglyLinkedListNode* newHead = llist;
