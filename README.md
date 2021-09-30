@@ -94,4 +94,5 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 46. [Scope](30%20Days%20of%20Code/Second%2010%20Days/Day%2015/Scope.java) `30 Days of Code`
 
 ### Day 16
-47. [Insert a node at a specific position in a linked list](1%20Month%20Preparation%20Kit/Week%203/Insert%20a%20node%20at%20a%20specific%20position%20in%20a%20linked%20list.cpp) `1 Month Preparation Kit`
+47. [Insert a node at a specific position in a linked list](1%20Month%20Preparation%20Kit/Week%203/Day%2016/Insert%20a%20node%20at%20a%20specific%20position%20in%20a%20linked%20list.cpp) `1 Month Preparation Kit`
+48. [Merge two sorted linked lists](1%20Month%20Preparation%20Kit/Week%203/Day%2016/Merge%20two%20sorted%20linked%20lists.cpp)
