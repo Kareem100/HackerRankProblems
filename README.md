@@ -101,6 +101,5 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 17
 
 50. [Ice Cream Parlor](1%20Month%20Preparation%20Kit/Week%203/Day%2017/Ice%20Cream%20Parlor.cpp) `1 Month Preparation Kit`
-51. [](1%20Month%20Preparation%20Kit/Week%203/Day%2017/.cpp) `1 Month Preparation Kit`
-52. [](30%20Days%20of%20Code/Second%2010%20Days/Day%2017/.java) `30 Days of Code`
+51. [Queue using Two Stacks](1%20Month%20Preparation%20Kit/Week%203/Day%2017/Queue%20using%20Two%20Stacks.cpp) `1 Month Preparation Kit`
 
