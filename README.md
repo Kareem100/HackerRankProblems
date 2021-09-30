@@ -91,3 +91,4 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 
 44. [Reverse a linked list](1%20Month%20Preparation%20Kit/Week%203/Day%2015/Reverse%20a%20linked%20list.cpp) `1 Month Preparation Kit`
 45. [Reverse a doubly linked list](1%20Month%20Preparation%20Kit/Week%203/Day%2015/Reverse%20a%20doubly%20linked%20list.cpp) `1 Month Preparation Kit`
+46. [Scope](30%20Days%20of%20Code/Second%2010%20Days/Day%2015/Scope.java) `30 Days of Code`
