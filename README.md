@@ -107,4 +107,5 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 18
 
 53. [Balanced Brackets](1%20Month%20Preparation%20Kit/Week%203/Day%2018/Balanced%20Brackets.cpp) `1 Month Preparation Kit`
+54. [More Exceptions](30%20Days%20of%20Code/Second%2010%20Days/Day%2018/More%20Exceptions.java) `30 Days of Code`
 
