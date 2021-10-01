@@ -115,3 +115,7 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 56. [Simple Text Editor](1%20Month%20Preparation%20Kit/Week%203/Day%2019/Simple%20Text%20Editor.cpp) `1 Month Preparation Kit`
 57. [Queues and Stacks](30%20Days%20of%20Code/Second%2010%20Days/Day%2019/Queues%20and%20Stacks.java) `30 Days of Code`
 
+### Day 20
+
+58. [Equal Stacks](1%20Month%20Preparation%20Kit/Week%204/Day%2020/Equal%20Stacks.cpp) `1 Month Preparation Kit`
+
