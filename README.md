@@ -104,3 +104,7 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 51. [Queue using Two Stacks](1%20Month%20Preparation%20Kit/Week%203/Day%2017/Queue%20using%20Two%20Stacks.cpp) `1 Month Preparation Kit`
 52. [Exceptions - String to Integer](30%20Days%20of%20Code/Second%2010%20Days/Day%2017/Exceptions%20-%20String%20to%20Integer.java) `30 Days of Code`
 
+### Day 18
+
+53. [Balanced Brackets](1%20Month%20Preparation%20Kit/Week%203/Day%2018/Balanced%20Brackets.cpp) `1 Month Preparation Kit`
+
