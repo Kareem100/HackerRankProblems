@@ -124,3 +124,4 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 21
 
 61. [Lego Blocks](1%20Month%20Preparation%20Kit/Week%204/Day%2021/Lego%20Blocks.cpp) `1 Month Preparation Kit`
+62. [QHEAP1](1%20Month%20Preparation%20Kit/Week%204/Day%2021/QHEAP1.cpp) `1 Month Preparation Kit`
