@@ -120,3 +120,7 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 58. [Equal Stacks](1%20Month%20Preparation%20Kit/Week%204/Day%2020/Equal%20Stacks.cpp) `1 Month Preparation Kit`
 59. [The Maximum Subarray](1%20Month%20Preparation%20Kit/Week%204/Day%2020/The%20Maximum%20Subarray.cpp) `1 Month Preparation Kit`
 60. [Interfaces](30%20Days%20of%20Code/Second%2010%20Days/Day%2020/Interfaces.java) `30 Days of Code`
+
+### Day 21
+
+61. [Lego Blocks](1%20Month%20Preparation%20Kit/Week%204/Day%2021/Lego%20Blocks.cpp) `1 Month Preparation Kit`
