@@ -118,4 +118,5 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 20
 
 58. [Equal Stacks](1%20Month%20Preparation%20Kit/Week%204/Day%2020/Equal%20Stacks.cpp) `1 Month Preparation Kit`
+59. [The Maximum Subarray](1%20Month%20Preparation%20Kit/Week%204/Day%2020/The%20Maximum%20Subarray.cpp) `1 Month Preparation Kit`
 
