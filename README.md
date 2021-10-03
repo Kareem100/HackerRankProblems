@@ -136,3 +136,5 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 23
 
 67. [Queries with Fixed Length](1%20Month%20Preparation%20Kit/Week%204/Day%2023/Queries%20with%20Fixed%20Length.cpp) `1 Month Preparation Kit`
+68. [Array Manipulation](1%20Month%20Preparation%20Kit/Week%204/Day%2023/Array%20Manipulation.cpp) `1 Month Preparation Kit`
+
