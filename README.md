@@ -132,3 +132,7 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 64. [Jesse and Cookies](1%20Month%20Preparation%20Kit/Week%204/Day%2022/Jesse%20and%20Cookies.cpp) `1 Month Preparation Kit`
 65. [Hackerland Radio Transmitters](1%20Month%20Preparation%20Kit/Week%204/Day%2022/Hackerland%20Radio%20Transmitters.cpp) `1 Month Preparation Kit`
 66. [Generics](30%20Days%20of%20Code/Third%2010%20Days/Day%2022/Generics.java) `30 Days of Code`
+
+### Day 23
+
+67. [Queries with Fixed Length](1%20Month%20Preparation%20Kit/Week%204/Day%2023/Queries%20with%20Fixed%20Length.cpp) `1 Month Preparation Kit`
