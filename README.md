@@ -138,3 +138,8 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 67. [Queries with Fixed Length](1%20Month%20Preparation%20Kit/Week%204/Day%2023/Queries%20with%20Fixed%20Length.cpp) `1 Month Preparation Kit`
 68. [Array Manipulation](1%20Month%20Preparation%20Kit/Week%204/Day%2023/Array%20Manipulation.cpp) `1 Month Preparation Kit`
 69. [Binary Search Trees](30%20Days%20of%20Code/Third%2010%20Days/Day%2023/Binary%20Search%20Trees.java) `30 Days of Code`
+
+
+### Day 24
+
+70. [Highest Value Palindrome](1%20Month%20Preparation%20Kit/Week%204/Day%2024/Highest%20Value%20Palindrome.cpp) `1 Month Preparation Kit`
