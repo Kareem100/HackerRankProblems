@@ -145,3 +145,7 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 70. [Highest Value Palindrome](1%20Month%20Preparation%20Kit/Week%204/Day%2024/Highest%20Value%20Palindrome.cpp) `1 Month Preparation Kit`
 71. [Lily's Homework](1%20Month%20Preparation%20Kit/Week%204/Day%2024/Lily's%20Homework.java) `1 Month Preparation Kit`
 72. [BST Level-Order Traversal](30%20Days%20of%20Code/Third%2010%20Days/Day%2024/BST%20Level-Order%20Traversal.java) `30 Days of Code`
+
+### Day 25
+
+75. [More Linked Lists](30%20Days%20of%20Code/Third%2010%20Days/Day%2025/More%20Linked%20Lists.java) `30 Days of Code`
