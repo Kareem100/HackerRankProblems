@@ -143,3 +143,4 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 ### Day 24
 
 70. [Highest Value Palindrome](1%20Month%20Preparation%20Kit/Week%204/Day%2024/Highest%20Value%20Palindrome.cpp) `1 Month Preparation Kit`
+71. [Lily's Homework](1%20Month%20Preparation%20Kit/Week%204/Day%2024/Lily's%20Homework.java) `1 Month Preparation Kit`
