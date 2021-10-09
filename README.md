@@ -148,4 +148,5 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 
 ### Day 25
 
+73. [Tree- Preorder Traversal](1%20Month%20Preparation%20Kit/Week%204/Day%2025/Tree-%20Preorder%20Traversal.java) `1 Month Preparation Kit`
 75. [More Linked Lists](30%20Days%20of%20Code/Third%2010%20Days/Day%2025/More%20Linked%20Lists.java) `30 Days of Code`
