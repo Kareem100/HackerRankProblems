@@ -161,3 +161,8 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 
 78. [No Prefix Set](1%20Month%20Preparation%20Kit/Week%204/Day%2027/No%20Prefix%20Set.java) `1 Month Preparation Kit`
 79. [Nested Logic](30%20Days%20of%20Code/Third%2010%20Days/Day%2027/Nested%20Logic.java) `30 Days of Code`
+
+### Day 28
+
+80. [Castle on the Grid](1%20Month%20Preparation%20Kit/Week%204/Day%2028/Castle%20on%20the%20Grid.java) `1 Month Preparation Kit`
+
