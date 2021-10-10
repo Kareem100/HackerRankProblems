@@ -156,3 +156,7 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 
 76. [Binary Search Tree: Lowest Common Ancestor](1%20Month%20Preparation%20Kit/Week%204/Day%2026/Binary%20Search%20Tree-%20Lowest%20Common%20Ancestor.cpp) `1 Month Preparation Kit`
 77. [Running Time and Complexity](30%20Days%20of%20Code/Third%2010%20Days/Day%2026/Running%20Time%20and%20Complexity.java) `30 Days of Code`
+
+### Day 27
+
+78. [No Prefix Set](1%20Month%20Preparation%20Kit/Week%204/Day%2027/No%20Prefix%20Set.cpp) `1 Month Preparation Kit`
