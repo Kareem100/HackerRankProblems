@@ -1,6 +1,13 @@
 # HackerRankProblems
-Practicing the Problem Solving Skills Using the Problems offered by `HackerRank` Platform.
+Practicing the Problem Solving Skills Using the Problems offered by `HackerRank` Platform,</br>
+starting from September 2021 till October 2021 in continuous 30 days,</br>
+with a gradual difficulty in different techniques of problems.
 
+## Problems Set
+| [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) </br> and </br> [1 Month Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-four/challenges) |
+| :----------: |
+
+## Solutions
 ### Day 1
 
 1. [Plus Minus](1%20Month%20Preparation%20Kit/Week%201/Day%201/Plus%20Minus.cpp) `1 Month Preparation Kit`
