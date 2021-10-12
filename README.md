@@ -171,3 +171,7 @@ Practicing the Problem Solving Skills Using the Problems offered by `HackerRank`
 
 82. [Roads and Libraries](1%20Month%20Preparation%20Kit/Week%204/Day%2029/Roads%20and%20Libraries.cpp) `1 Month Preparation Kit`
 83. [RegEx, Patterns, and Intro to Databases](30%20Days%20of%20Code/Third%2010%20Days/Day%2029/RegEx,%20Patterns,%20and%20Intro%20to%20Databases.java) `30 Days of Code`
+
+### Day 30
+
+84. [Array Manipulation](1%20Month%20Preparation%20Kit/Week%204/Day%2030/Array%20Manipulation.cpp) `1 Month Preparation Kit`
